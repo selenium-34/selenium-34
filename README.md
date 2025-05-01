@@ -4,7 +4,7 @@
 - 💞️ I’m looking for full time employment and internship opportunities starting Fall '25
 - 📫 Find me on LinkedIn: https://www.linkedin.com/in/selenabahro
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a senior studying Linguistics & Computer Science @ UCLA, set to graduate in Summer '25
+- ⚡ Fun fact: I've flown an airplane before
 
 <!---
 selenium-34/selenium-34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

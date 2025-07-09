@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selenium-34
 - 👀 I’m interested in AI, Machine Learning, Data Science & Engineering, Software Engineering, and Linguistics
-- 🌱 I’m currently learning more about NLPs
-- 💞️ I’m looking for full time employment and internship opportunities starting Fall '25
+- 🌱 I’m currently learning more about test automation
+- 💞️ I’m looking for full time employment opportunities starting Fall '25
 - 📫 Find me on LinkedIn: https://www.linkedin.com/in/selenabahro
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've flown an airplane before

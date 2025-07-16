@@ -4,7 +4,6 @@
 - 💞️ I’m looking for full time employment opportunities starting Fall '25
 - 📫 Find me on LinkedIn: https://www.linkedin.com/in/selenabahro
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I've flown an airplane before
 
 <!---
 selenium-34/selenium-34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
